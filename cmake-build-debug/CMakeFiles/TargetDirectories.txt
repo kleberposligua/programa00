@@ -1,0 +1,3 @@
+C:/Users/kleber.posligua/CLionProjects/primerprograma/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/kleber.posligua/CLionProjects/primerprograma/cmake-build-debug/CMakeFiles/primerprograma.dir
+C:/Users/kleber.posligua/CLionProjects/primerprograma/cmake-build-debug/CMakeFiles/edit_cache.dir
